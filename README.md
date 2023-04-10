@@ -1,6 +1,6 @@
-# Hi
+# Hello there!
 
-Hi there, I'm Tim, a Slovenian dude born in Germany, raised in Portugal and currently living in Brazil!
+I'm Tim, a Slovenian dude born in Germany, raised in Portugal and currently living in Brazil!
 
 Im a JavaScript enthusiast and professional nerd who develops high quality open source libraries on NPM. I also run a successful Discord bot and a powerful astronomy API. In my free time i like helping other developers, especially beginner developers on Discord and elsewhere.
 
